@@ -9,8 +9,8 @@
 This is my personal portfolio and project showcase website built with GitHub Pages.
 
 ## Featured Projects
-- [Project Name](https://github.com/<username>/project-name) — Brief description
-- [Course Repository](https://github.com/<username>/11501_CI001) — CI001 Course assignments
+- [Project Name](https://github.com/yoyo0201/project-name) — Brief description
+- [Course Repository](https://github.com/yoyo0201/11501_CI001) — CI001 Course assignments
 
 ## Contact
 Feel free to reach out to me at your_email@mail.yzu.edu.tw
