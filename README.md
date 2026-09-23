@@ -13,4 +13,4 @@ This is my personal portfolio and project showcase website built with GitHub Pag
 - [Course Repository](https://github.com/yoyo0201/11501_CI001) — CI001 Course assignments
 
 ## Contact
-Feel free to reach out to me at your_email@mail.yzu.edu.tw
+Feel free to reach out to me at s1151401@mail.yzu.edu.tw
